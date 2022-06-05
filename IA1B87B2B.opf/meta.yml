@@ -1,0 +1,25 @@
+id: IA1B87B2B
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T20:13:32.616468'
+last_modified: '2022-06-05T20:13:32.616474'
+parser: null
+source_metadata:
+  title: Third Karmapa Series
+  language: pt
+  description: 'Texts by and about the Third Karmapa, Rangjung Dorje (karma pa rang
+    byung rdo rje, 1284–1339):'
+  volume:
+    f440B:
+      title: Aspiration of the Mahāmudrā of Definitive Meaning
+      base_file: f440B.txt
+      order: 1
+      parent: Aspiration Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
